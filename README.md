@@ -43,4 +43,4 @@
 * Kill and remove all `app` containers
 * Running `docker exec h5data ls ../h5data` should now show `test1.txt`, `test2.txt`, `pytablesTest.h5`, `h5pyTest.h5` and `opencvTest.h5`
 
-**Everything is completely tested and the Python, OpenCV and HDF5 environment works**
+**Everything is completely tested and the Python3, OpenCV3 and HDF5 environment works**
